@@ -1,1 +1,1 @@
-# FPGA-grayscale-images-spatial-filtering-circuit
+# FPGA implementation of spatial filtering circuit for 2D grayscale images
